@@ -82,8 +82,9 @@ Imagine a curious mind from Chennai, India, armed with a B.Tech in Artificial In
 ---
 
 ## 🌐 Socials
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sudhirmahaaraja@gmail.com)
-[![portfolio](https://sudhirmahaaraja.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sudhirmahaaraja@gmail.com)
+[![Portfolio](https://shields.io)](https://sudhirmahaaraja.vercel.app/)
+
 
 ---
 
