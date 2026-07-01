@@ -2,7 +2,7 @@
 
 AI/ML Engineer · Data Science Specialist · Chennai, India
 
-B.Tech in Artificial Intelligence and Data Science, RMK College of Engineering and Technology
+Working as an AI Engineer for KashTech LLC
 
 **Portfolio:** [sudhirmahaaraja.vercel.app](https://sudhirmahaaraja.vercel.app/)
 
